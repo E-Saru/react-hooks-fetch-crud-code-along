@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Mozerella Cheese",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Cabbage",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
     }
   ]
 }
